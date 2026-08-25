@@ -224,12 +224,4 @@ footer{
     margin-bottom: 10px;
     font-size: 20px;
 }
-.videonaside{
-    display:flex;
-    align-items: center;
-    gap: 10px;
-}
-video{
-    width: 600px;
-    margin: 20px;
-}
+
